@@ -1,16 +1,9 @@
 # ao_folio
 
-A new Flutter project.
+A mobile Portfolio app showcasing my abilities as a Cross-platform Mobile developer... a little on the nose right? i know, LOL.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+You can get a preview of this app by checking screenshots here:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- https://photos.app.goo.gl/XHyZ7LgDYinCnGhV6
